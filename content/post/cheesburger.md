@@ -5,4 +5,4 @@ title = "cheesburger"
 
 +++
 
-I think cheesburgers are the worst thing I've ever eaten. French fries are horrible, too
+I think cheesburgers are the worst thing I've ever eaten. French fries are horrible, too.
