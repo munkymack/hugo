@@ -4,7 +4,7 @@ Description = ""
 Tags = ["Development", "golang"]
 date = "2016-03-21T16:49:15-07:00"
 menu = "main"
-title = "littlebit"
+title = "The Long Winters"
 
 +++
 Let's talk a little bit about an absolutely fantastic band, [The Long Winters](www.thelongwinters.com).
