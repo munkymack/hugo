@@ -3,7 +3,7 @@ title: Megan Sullivan/PBteen Assistant Buyer Cover Letter
 layout: post
 author: highfive
 permalink: pbteen-assistant-buyer-cover-letter/
-date = "2016-06-18"
+date: "2016-06-18"
 source-id: 17JzX2ouH4M3RE6_Y_rGQ7uRu7mGdsYjXgQouIT9UoZc
 published: true
 ---
