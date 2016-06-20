@@ -1,5 +1,5 @@
 ---
-title: The Story of Brian and David
+title: The Story of Philip and Gerald
 layout: post
 author: Aaron Autrand
 permalink: /moon-boots/
